@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Web Developer Intern | 🤖 ROV Robotics Enthusiast | 💻 Code Enthusiast<br><br>    🌱 Currently exploring React.js & responsive web design.<br>    🤝 Open to collaborations in robotics, web development, or innovative tech.<br>    🚀 Interested in the fusion of web dev and robotics? Let's collaborate! Connect with me on LinkedIn.<br>    📫 Reach out via email or connect on LinkedIn.
+🎨 Web Designer | 🖥️ UI/UX Enthusiast | 💡 Design Innovator <br><br>    🌱 Currently exploring React.js & responsive web design.<br>    🤝 Open to collaborations in robotics, web development, or innovative tech.<br>    🚀 Interested in the fusion of web dev and robotics? Let's collaborate! Connect with me on LinkedIn.<br>    📫 Reach out via email or connect on LinkedIn.
 
 
 ## 🌐 Socials:
